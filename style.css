@@ -1,1 +1,9 @@
-
+body{background-color: cor; text-align: justify;font-size: 18px;}
+h1{text-align: center;background-color: cor;color: cor;}
+h3{text-align: justify:color:cor;}
+b{color:blue;font-size:  18px;}
+i{color:blue;font-size:  18px;}
+header, footer{background-color: cor;color: cor;text-align: center;font-size: 20px;}
+main{background-color: cor;}
+Primeiro Paragrafo{text-align: justify;font-size: 18px;border: black solid 2px;padding: 10px; margin: 10px;}
+Segundo Paragrafo
